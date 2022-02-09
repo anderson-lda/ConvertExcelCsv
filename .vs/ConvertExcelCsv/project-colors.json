@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e83bde9c-5c9f-48f4-b142-f4d6224427de": {
+      "ProjectGuid": "e83bde9c-5c9f-48f4-b142-f4d6224427de",
+      "DisplayName": "ConvertExcelCsv",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
